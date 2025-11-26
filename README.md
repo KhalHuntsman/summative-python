@@ -98,7 +98,7 @@ The program will print:
 - Number of paragraphs
 - Number of sentences
 
-📝 How to Use the Program
+### How to Use the Program
 
 Inside pythonAssessment.py, locate this block:
 
